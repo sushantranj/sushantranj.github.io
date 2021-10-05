@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Pareto NBD by segment](/https://github.com/sushantranj/Pareto-NBD-by-Group-for-CLV)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
