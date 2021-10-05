@@ -1,9 +1,3 @@
 title: Sushant Ranjan # your name (or website title) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/sushant-ranjan-0521a323/">View My LinkedIn Profile</a> 
-  
+description: <a href="https://www.linkedin.com/in/sushant-ranjan-0521a323/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
